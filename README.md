@@ -1,1 +1,2 @@
 # Predicting-News-Popularity
+Explore my comprehensive News Popularity Prediction project, where I skillfully translated continuous target variables into actionable insights. Delve into the sophisticated methodologies involving logistic regression and data-driven analysis, culminating in a substantial accuracy improvement from 60% to 67%. Navigate the nuanced terrain of model selection as I crown XGBoost the paramount solution for anticipating the popularity of news articles. 📊🔍 #DataScience #NewsPopularity #MachineLearning"
